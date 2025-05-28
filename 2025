@@ -1,7 +1,7 @@
 const {
-  ezra
+  raheem 
 } = require('../Raheem-cm/18');
-ezra({
+raheem({
   'nomCom': "tictac",
   'categorie': "Games",
   'reaction': '🎮'
